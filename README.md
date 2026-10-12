@@ -1,4 +1,8 @@
-# ePIC-PDF
+# ePIC-inclusive-unfolding
+
+NOTE: The code will change, I re-did the entire thing from scratch, ignore the code here for now.
+
+
 PDF and DIS cross section Studies using the EIC Collaboration Software
 
 Some stuff to run on the eic-shell available on the physics server.
